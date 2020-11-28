@@ -37,3 +37,10 @@ spl-token --owner /home/solana/keys/validator-identity-keypair.json \
   transfer $MY_PICO_INFLATION_SPL_TOKEN_VOTE_ADDRESS ALL \
   $SOLANA_FOUNDATION_PICO_INFLATION_SPL_TOKEN_ACCEPTANCE_ADDRESS
 ```
+
+
+Reference: 
+
+[Final Inflation Parameter Proposal and Steps to Implementation](https://forums.solana.com/t/final-inflation-parameter-proposal-and-steps-to-implementation/977)
+
+[Feature Proposal/Vote: Pico-inflation on testnet](https://forums.solana.com/t/feature-proposal-vote-pico-inflation-on-testnet/990)
