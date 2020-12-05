@@ -1,9 +1,9 @@
 # Solana Validator
-A home for Solana validator scripts
+A home for Solana validator resources
 
-## Mascot
+## Banner
 
-![Mascot](images/solana-validator-00.png)
+![Banner](images/solana-validator-00.png)
 
 ## TdS PICO Inflation
 
