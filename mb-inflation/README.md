@@ -13,9 +13,9 @@
 
 ### SCREENs
 
-![SIC About](images/sic_about.png)
+![SIC About](../images/sic_about.png)
 
-![SIC Candidates](images/sic_candidates.png)
+![SIC Candidates](../images/sic_candidates.png)
 
 ### OUTPUT
 
