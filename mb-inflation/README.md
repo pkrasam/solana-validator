@@ -11,6 +11,12 @@
 - Execute the script
   `bash sic.sh`
 
+### SCREENs
+
+![SIC About](images/sic_about.png)
+
+![SIC Candidates](images/sic_candidates.png)
+
 ### OUTPUT
 
 You might see an output similar to this:
