@@ -5,7 +5,7 @@
 ### STEPS
 
 - Download this script
-  `wget sic.sh`
+  `wget https://raw.githubusercontent.com/pkrasam/solana-validator/main/mb-inflation/sic.sh`
 - Grant execution privileges
   `chmod +x sic.sh`
 - Execute the script
