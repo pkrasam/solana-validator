@@ -8,6 +8,8 @@
   `wget https://raw.githubusercontent.com/pkrasam/solana-validator/main/mb-inflation/sic.sh`
 - Grant execution privileges
   `chmod +x sic.sh`
+- Edit the script, if your `path_to_keys` and `validator_identity` are different (rows 4,5)
+  ` nano sic.sh`
 - Execute the script
   `bash sic.sh`
 
